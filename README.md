@@ -10,3 +10,6 @@ Redis 4.0.14.2
 必须安装
 mysql、redis
 
+前端代码
+
+https://github.com/a3346711261/HRM_Vue
