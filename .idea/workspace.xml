@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be2118ed-94e8-4ea8-99d0-c02a6dc9b434" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/hrm_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_common/target/ihrm_common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_common/target/ihrm_common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_common_model/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_common_model/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_company/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_company/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/CompanyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/CompanyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/service/CompanyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/service/CompanyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_company/target/classes/META-INF/ihrm_company.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_company/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_company/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_company/target/classes/com/ihrm/company/CompanyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_company/target/classes/com/ihrm/company/CompanyApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_company/target/classes/com/ihrm/company/dao/CompanyDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_company/target/classes/com/ihrm/company/dao/CompanyDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_company/target/classes/com/ihrm/company/service/CompanyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_company/target/classes/com/ihrm/company/service/CompanyService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_company/target/test-classes/com/ihrm/company/CompanyDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_company/target/test-classes/com/ihrm/company/CompanyDaoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_employee/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_employee/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_system/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/serivce/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/serivce/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/utils/QRCodeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/utils/QRCodeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_system/target/classes/com/ihrm/system/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_system/target/classes/com/ihrm/system/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_system/target/classes/com/ihrm/system/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_system/target/classes/com/ihrm/system/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_system/target/classes/com/ihrm/system/serivce/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_system/target/classes/com/ihrm/system/serivce/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ihrm_common/target/" />
+    <ignored path="$PROJECT_DIR$/ihrm_common_model/target/" />
+    <ignored path="$PROJECT_DIR$/ihrm_company/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_system/target/" />
+    <ignored path="$PROJECT_DIR$/ihrm_system/target/" />
+    <ignored path="$PROJECT_DIR$/ihrm_systems/target/" />
+    <ignored path="$PROJECT_DIR$/ihrm_employee/target/" />
+    <ignored path="$PROJECT_DIR$/ihrm_eureka/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/SystemApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1603#1604#0" expanded="true" />
+                <element signature="e#1644#1645#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ihrm_eureka/src/main/java/com/ihrm/eureka/EurekaServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ihrm_system/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1472">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>department</find>
+      <find>Department</find>
+      <find>user</find>
+      <find>UserService</find>
+      <find>userDao</find>
+      <find />
+      <find>positive</find>
+      <find>\t</find>
+      <find>System.out.println</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>userDao</replace>
+      <replace>user</replace>
+      <replace>UserDao</replace>
+      <replace>User</replace>
+      <replace>role</replace>
+      <replace>roleService</replace>
+      <replace>permissionDao</replace>
+      <replace />
+      <replace>,</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/system/PermissionApi.java" />
+        <option value="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/system/Permission.java" />
+        <option value="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/system/response/ProfileResult.java" />
+        <option value="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/company/Company.java" />
+        <option value="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/company/Department.java" />
+        <option value="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/employee/EmployeeArchive.java" />
+        <option value="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/employee/EmployeePositive.java" />
+        <option value="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/employee/EmployeeResignation.java" />
+        <option value="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/employee/EmployeeTransferPosition.java" />
+        <option value="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/employee/UserCompanyJobs.java" />
+        <option value="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/employee/UserCompanyPersonal.java" />
+        <option value="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/system/Role.java" />
+        <option value="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/system/User.java" />
+        <option value="$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/utlis/QiniuUploadUtil.java" />
+        <option value="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/system/response/QRCode.java" />
+        <option value="$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/system/response/FaceLoginResult.java" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/utils/BaiduAiUtil.java" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/FaceLoginController.java" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/serivce/FaceLoginService.java" />
+        <option value="$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/utlis/HttpsPort.java" />
+        <option value="$PROJECT_DIR$/ihrm_eureka/src/main/java/com/ihrm/eureka/HttpsPort.java" />
+        <option value="$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/exception/BaseExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/utils/RandomCodeUtil.java" />
+        <option value="$PROJECT_DIR$/ihrm_eureka/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/ShiroConfiguration.java" />
+        <option value="$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/entity/ResultCode.java" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/utils/TencentACUtil.java" />
+        <option value="$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/dao/CompanyDao.java" />
+        <option value="$PROJECT_DIR$/ihrm_company/src/test/java/com/ihrm/company/CompanyDaoTest.java" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/client/CompanyFeignClient.java" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/dao/CompayDao.java" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/client/DepartmentFeignClient.java" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/dao/CompanyDao.java" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/test/java/com/ihrm/system/test01.java" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ihrm_company/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/utils/QRCodeUtil.java" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/serivce/UserService.java" />
+        <option value="$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/CompanyApplication.java" />
+        <option value="$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/service/CompanyService.java" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ihrm_system/pom.xml" />
+        <option value="$PROJECT_DIR$/ihrm_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/ihrm_employee/pom.xml" />
+        <option value="$PROJECT_DIR$/ihrm_company/pom.xml" />
+        <option value="$PROJECT_DIR$/ihrm_common_model/pom.xml" />
+        <option value="$PROJECT_DIR$/ihrm_common/pom.xml" />
+        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/SystemApplication.java" />
+        <option value="$PROJECT_DIR$/ihrm_eureka/src/main/java/com/ihrm/eureka/EurekaServer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/maven/soft/apache-maven-3.5.4" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8 (2)" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ihrm_common_model" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ihrm_common_model" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+              <item name="ihrm_system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hrm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\hrm" />
+      <recent name="E:\github\hrm\ihrm_eureka" />
+      <recent name="E:\github\hrm\ihrm_system\src\main\java\com\ihrm\system\serivce" />
+      <recent name="E:\github\hrm\ihrm_system\src\main\java\com\ihrm\system\controller" />
+      <recent name="E:\github\hrm\ihrm_system\src\main\java\com\ihrm\system\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ihrm.company" />
+      <recent name="com.ihrm.system" />
+      <recent name="com.ihrm.domain.company" />
+      <recent name="com.ihrm.common.utlis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\github\hrm\ihrm_eureka\src\main\resources" />
+      <recent name="E:\github\hrm\ihrm_company\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SystemApplication">
+    <configuration name="CompanyDaoTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ihrm_company" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihrm.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ihrm.company" />
+      <option name="MAIN_CLASS_NAME" value="com.ihrm.company.CompanyDaoTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test01.test001" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ihrm_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihrm.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ihrm.system" />
+      <option name="MAIN_CLASS_NAME" value="com.ihrm.system.test01" />
+      <option name="METHOD_NAME" value="test001" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test01.test002" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ihrm_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihrm.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ihrm.system" />
+      <option name="MAIN_CLASS_NAME" value="com.ihrm.system.test01" />
+      <option name="METHOD_NAME" value="test002" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ihrm_company" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihrm.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ihrm.company.CompanyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ihrm_employee" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ihrm.employee.EmployeeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ihrm_eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ihrm.eureka.EurekaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ihrm_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihrm.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ihrm.system.SystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SystemApplication" />
+        <item itemvalue="Spring Boot.CompanyApplication" />
+        <item itemvalue="JUnit.test01.test001" />
+        <item itemvalue="JUnit.test01.test002" />
+        <item itemvalue="JUnit.CompanyDaoTest.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be2118ed-94e8-4ea8-99d0-c02a6dc9b434" name="Default Changelist" comment="" />
+      <created>1591291528393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591291528393</updated>
+      <workItem from="1591291531847" duration="26000" />
+      <workItem from="1591292109539" duration="946000" />
+      <workItem from="1591294810695" duration="3918000" />
+      <workItem from="1591326977346" duration="4182000" />
+      <workItem from="1591347486152" duration="2729000" />
+      <workItem from="1591427465512" duration="1401000" />
+      <workItem from="1591446474649" duration="7864000" />
+      <workItem from="1591511726706" duration="1700000" />
+      <workItem from="1591514122868" duration="1491000" />
+      <workItem from="1591515646252" duration="824000" />
+      <workItem from="1591516479311" duration="12787000" />
+      <workItem from="1591552009865" duration="88000" />
+      <workItem from="1591552116128" duration="1354000" />
+      <workItem from="1591594794523" duration="6917000" />
+      <workItem from="1591619379165" duration="4613000" />
+      <workItem from="1591629796492" duration="998000" />
+      <workItem from="1591688877756" duration="17796000" />
+      <workItem from="1591758976904" duration="11203000" />
+      <workItem from="1591791583671" duration="428000" />
+      <workItem from="1591798616383" duration="2105000" />
+      <workItem from="1591869468324" duration="1970000" />
+      <workItem from="1591881476499" duration="599000" />
+      <workItem from="1591942720975" duration="13834000" />
+      <workItem from="1592030511238" duration="7560000" />
+      <workItem from="1592054920381" duration="9782000" />
+      <workItem from="1592113126585" duration="17369000" />
+      <workItem from="1592137079296" duration="10780000" />
+      <workItem from="1592211607920" duration="4049000" />
+      <workItem from="1592290138053" duration="4320000" />
+      <workItem from="1592310437482" duration="5577000" />
+      <workItem from="1592387522533" duration="1664000" />
+      <workItem from="1592411099808" duration="1936000" />
+      <workItem from="1592463201583" duration="14662000" />
+      <workItem from="1592535584465" duration="8222000" />
+      <workItem from="1592612352692" duration="1349000" />
+      <workItem from="1592633726218" duration="597000" />
+      <workItem from="1592640132355" duration="598000" />
+      <workItem from="1592707181138" duration="604000" />
+      <workItem from="1592735012005" duration="773000" />
+      <workItem from="1592793295345" duration="5394000" />
+      <workItem from="1592902925266" duration="238000" />
+      <workItem from="1592918541010" duration="1143000" />
+      <workItem from="1592973358480" duration="7048000" />
+      <workItem from="1592994118774" duration="6013000" />
+      <workItem from="1593054377621" duration="5628000" />
+      <workItem from="1593140767707" duration="13694000" />
+      <workItem from="1593164265310" duration="32000" />
+      <workItem from="1593179419147" duration="3518000" />
+      <workItem from="1593183076036" duration="1843000" />
+      <workItem from="1593224859353" duration="9360000" />
+    </task>
+    <task id="LOCAL-00001" summary="第三章完成">
+      <created>1591595192763</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591595192763</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第四章完成">
+      <created>1591759505696</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591759505696</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第五章完成">
+      <created>1591947725499</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591947725499</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第六章完成">
+      <created>1591967395451</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591967395451</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第七章上完成 POI的基本使用完成">
+      <created>1592127115112</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592127115112</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第八章POI的百万数据导入导出">
+      <created>1592155828445</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592155828445</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第九章">
+      <created>1592317050005</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592317050006</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1.0">
+      <created>1593180421864</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1593180421864</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test01_test - 2020.06.24 at 21h 29m 55s.xml">
+      <configuration name="test01.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test - 2020.06.24 at 21h 33m 35s.xml">
+      <configuration name="test01.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test1 - 2020.06.25 at 23h 31m 42s.xml">
+      <configuration name="test01.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompanyDaoTest_test01 - 2020.06.26 at 15h 18m 29s.xml">
+      <configuration name="CompanyDaoTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompanyDaoTest_test01 - 2020.06.26 at 15h 19m 57s.xml">
+      <configuration name="CompanyDaoTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test002 - 2020.06.26 at 15h 25m 10s.xml">
+      <configuration name="test01.test002" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test002 - 2020.06.26 at 15h 33m 51s.xml">
+      <configuration name="test01.test002" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test002 - 2020.06.26 at 15h 36m 41s.xml">
+      <configuration name="test01.test002" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test001 - 2020.06.26 at 15h 44m 30s.xml">
+      <configuration name="test01.test001" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test01_test001 - 2020.06.26 at 16h 05m 38s.xml">
+      <configuration name="test01.test001" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="243288000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20788912" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.2537961" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43926248" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021322" side_tool="true" weight="0.36442515" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49840087" weight="0.3286334" />
+      <window_info anchor="bottom" id="MyBatis Log" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.3608742" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Bean Validation" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第三章完成" />
+    <MESSAGE value="第四章完成" />
+    <MESSAGE value="第五章完成" />
+    <MESSAGE value="第六章完成" />
+    <MESSAGE value="第七章上完成 POI的基本使用完成" />
+    <MESSAGE value="第八章POI的百万数据导入导出" />
+    <MESSAGE value="第九章" />
+    <MESSAGE value="1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/service/DepartmentService.java</url>
+          <line>112</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/controller/DepartmentController.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/serivce/PermissionService.java</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/UserController.java</url>
+          <line>141</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/RoleController.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_common/src/test/java/com/ihrm/demo/ParseJwtTest.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/serivce/PermissionService.java</url>
+          <line>176</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/serivce/PermissionService.java</url>
+          <line>183</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/interceptor/JwtInterceptor.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/controller/BaseController.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/interceptor/JwtInterceptor.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/controller/ErrorController.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/UserController.java</url>
+          <line>336</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/shiro/realm/IhrmRealm.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/controller/DepartmentController.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/shiro/realm/UserRealm.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_employee/src/main/java/com/ihrm/employee/controller/EmployeeController.java</url>
+          <line>161</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/UserController.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/serivce/UserService.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/UserController.java</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_employee/src/main/java/com/ihrm/employee/controller/EmployeeController.java</url>
+          <line>304</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/poi/ExcelExportUtil.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/UserController.java</url>
+          <line>274</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/utils/BaiduAiUtil.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/serivce/FaceLoginService.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/serivce/FaceLoginService.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/utils/TencentACUtil.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/UserController.java</url>
+          <line>224</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/serivce/UserService.java</url>
+          <line>262</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((HashMap.Node)((HashMap)result.roles).entrySet().toArray()[2]).getValue()" custom="java.util.HashMap.Node,java.util.HashMap" />
+        <watch expression="((HashMap.Node)((HashMap)result.roles).entrySet().toArray()[2]).getKey()" custom="java.util.HashMap.Node,java.util.HashMap" />
+        <watch expression="user" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/maven/source/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="773">
+          <caret line="134" column="11" selection-start-line="134" selection-start-column="4" selection-end-line="134" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/source/org/springframework/data/spring-data-redis/2.0.10.RELEASE/spring-data-redis-2.0.10.RELEASE-sources.jar!/org/springframework/data/redis/core/ValueOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="51" column="49" lean-forward="true" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/service/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/utils/BaiduAiUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="23" column="27" selection-start-line="14" selection-start-column="4" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/source/com/github/qcloudsms/qcloudsms/1.0.4/qcloudsms-1.0.4.jar!/com/github/qcloudsms/SmsSingleSender.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/utils/RandomCodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/ShiroConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608">
+          <caret line="75" column="46" selection-start-line="75" selection-start-column="46" selection-end-line="75" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="57" column="35" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/source/org/springframework/spring-core/5.0.9.RELEASE/spring-core-5.0.9.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="108" column="55" selection-start-line="108" selection-start-column="55" selection-end-line="108" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/controller/CompanyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-302">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_company/src/test/java/com/ihrm/company/CompanyDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/client/CompanyFeignClient.java" />
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/dao/CompayDao.java" />
+    <entry file="file://$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/controller/DepartmentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1258">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/client/DepartmentFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/test/java/com/ihrm/system/test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/service/DepartmentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1693">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/dao/CompanyDao.java" />
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="51" selection-start-line="51" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_company/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/system/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="111" column="24" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/entity/ResultCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="73" column="94" selection-start-line="73" selection-start-column="84" selection-end-line="73" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/com/sun/org/apache/xml/internal/security/utils/Base64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5ef607c41f3df173/QRCodeUtil.java" />
+    <entry file="file://$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/dao/CompanyDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/service/CompanyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/CompanyApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/serivce/FaceLoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="56" column="55" selection-start-line="56" selection-start-column="55" selection-end-line="56" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3036#3037#0" expanded="true" />
+            <element signature="e#3075#3076#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/FaceLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/utils/QRCodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/utils/TencentACUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="224" selection-start-line="224" selection-end-line="224" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/serivce/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1013">
+          <caret line="268" column="30" lean-forward="true" selection-start-line="268" selection-start-column="30" selection-end-line="268" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/ihrm_system.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_common/ihrm_common.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="176" column="26" selection-start-line="176" selection-start-column="26" selection-end-line="176" selection-end-column="26" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/hrm_jar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1287">
+          <caret line="155" column="79" selection-start-line="155" selection-start-column="79" selection-end-line="155" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_employee/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="50" column="39" lean-forward="true" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_company/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_common_model/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="60" column="12" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/SystemApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1603#1604#0" expanded="true" />
+            <element signature="e#1644#1645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_eureka/src/main/java/com/ihrm/eureka/EurekaServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihrm_system/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1472">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>hrm:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ihrm_system</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

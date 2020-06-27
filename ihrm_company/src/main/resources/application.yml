@@ -1,0 +1,42 @@
+#注册到eureka的服务地址
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:6868/eureka
+#  instance:
+#    perferIpAddress : true
+#    instance-id: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}
+#服务配置
+server:
+  port: 9001
+#spring配置
+spring:
+  #1.应用配置
+  application:
+    name: ihrm-company #指定服务名
+  #2.数据库连接池
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/hrm?useUnicode=true&characterEncoding=utf8&amp;useSSL=false
+    username: root
+    password: a141617
+#  redis:
+#    host: 127.0.0.1
+#    port: 6379
+  #3.JPA
+  jpa:
+    database: MySQL
+    show-sql: true
+    open-in-view: true
+  redis:
+    host: 127.0.0.1
+    port: 6379
+
+yrpc:
+  zookeeper:
+    address: 193.112.100.103:2181
+    root-path: /yRpc
+    session-time-out: 10000
+  netty:
+    port: 8989
+    host: 127.0.0.1
